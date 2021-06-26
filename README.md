@@ -31,7 +31,9 @@ rit zup seriesorganizer
 
 ![image](https://user-images.githubusercontent.com/49722795/123515917-d64cbf80-d66f-11eb-8062-77014e8fe3f9.png)
 
-3 - Done! Your files are now organized into folder per season
+3 - Done! Your files are now organized into folder per season.
 
+** The **NotMatchFiles** folder contains the files that not match to the pattern 
+ 
 ![image](https://user-images.githubusercontent.com/49722795/123515963-26c41d00-d670-11eb-9e01-9a2ae7eef0fe.png)
 
