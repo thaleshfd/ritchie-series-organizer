@@ -1,0 +1,19 @@
+{
+  "dockerImageBuilder": "ritclizup/rit-csharp-builder",
+  "inputs": [
+    {
+      "label": "What's the series name? ",
+      "name": "rit_input_text_1",
+      "tutorial": "Add the series name (set 'Chicago PD' if you're using the sample files)",
+      "type": "text"
+    },
+    {
+      "label": "Which directory should I search for the files? ",
+      "name": "rit_input_text_2",
+      "tutorial": "Add the directory folder that contains the files",
+      "type": "text"
+    }
+  ],
+  "template": "csharp",
+  "templateRelease:": "2.16.0"
+}
