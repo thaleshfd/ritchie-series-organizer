@@ -8,6 +8,7 @@ The files names must contain the correct name provided and the season and episod
 
 ```ANYANY_ANYSERIES NAMEANY_ANY S06E02.any```
 This file will be moved to a new folder S06 and renamed to SERIES NAME - S0602.any 
+
 ![image](https://user-images.githubusercontent.com/49722795/123515722-fcbe2b00-d66e-11eb-8b18-a28898434ed2.png)
 
 ## Requirements
